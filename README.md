@@ -10,4 +10,4 @@ Documenting my learning journey in cybersecurity, including notes, labs, and pra
 ## Current Progress
 - [x] Pre-Security (TryHackMe)
 - [ ] Cyber Security 101 (TryHackMe)
-- [ ] Active Directory Basics (in progress)
+- [ ] Networking Concepts (in progress)
